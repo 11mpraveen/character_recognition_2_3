@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(145, 189, 255);
+}
+
+h2{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    font-size: 30px;
+    color: white;
+}
+h3{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    font-size: 30px;
+    color: white;
+}
+h4{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    font-size: 30px;
+    color: white;
+}
+h5{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    font-size: 30px;
+    color: white;
+}
+h6{
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightcoral;
+    font-size: 30px;
+    color: white;
+}
+.characters{
+    width: 300px;
+    height: 300px;
+}
